@@ -1,0 +1,5 @@
+Is the actor male?
+Does he star in any Marvel Movies?
+Samuel L. Jackson
+Sean Connery
+Did she star in The Bourne Ultimatum? 
